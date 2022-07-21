@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lemerence53这是我的我的微信名
+- 👋 Hi, I’m @lemerence53这是我的微信名
 - 👀 I’m interested in 练练手，写写代码，别笑话
 - 🌱 I’m currently learning write code
 - 💞️ I’m looking to collaborate on nothing forthe time being.
